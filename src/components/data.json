@@ -1,0 +1,187 @@
+[
+	{
+		"patterns": ["hello"],
+		"responses": ["Hello! I'm your Expert ChatBot.How can I assist you today?"
+      ]
+	},
+	  {
+		"patterns": ["What is the stock market"],
+		"responses": ["The stock market, also known as the share market, is a platform where individuals and institutions can buy and sell ownership shares (stocks) in publicly traded companies."
+      ]
+	},
+	  {
+		"patterns": ["How do I invest in the stock market"],
+		"responses": ["To invest in the stock market, you need to open a brokerage account, research companies, and then buy stocks. You can do this through online or traditional brokerages."]
+	  },
+	  {
+		"patterns": ["What are stocks"],
+		"responses": ["Stocks represent ownership in a company. When you own stocks, you have a share of the company's assets and profits. Companies issue stocks to raise capital."]
+	  },
+	  {
+		"patterns": ["What is the difference between a bull market and a bear market"],
+		"responses": ["A bull market is a period of rising stock prices and optimism, while a bear market is characterized by falling prices and pessimism."]
+	  },
+	  {
+		"patterns": ["How do stock prices work"],
+		"responses": ["Stock prices are determined by supply and demand. If more people want to buy a stock, its price goes up; if more people want to sell, the price goes down."]
+	  },
+	  {
+		"patterns": ["What is a stock index"],
+		"responses": ["A stock index is a weighted average of a group of stocks, used to track the performance of a specific market or sector. Examples include the S&P 500 and the Dow Jones Industrial Average."]
+	  },
+	  {
+		"patterns": ["What is a dividend"],
+		"responses": ["A dividend is a payment made by a company to its shareholders from its profits. It is typically paid on a per-share basis and is a way for investors to receive a portion of the company's earnings."]
+	  },
+	  {
+		"patterns": ["What are the risks of investing in the stock market"],
+		"responses": ["Stock market investments carry risks, including market volatility, company-specific risks, and economic factors. It's possible to lose money, so it's important to diversify your investments and do your research."]
+	  },
+	  {
+		"patterns": ["What is the role of a stockbroker"],
+		"responses": ["A stockbroker is a financial professional or platform that facilitates the buying and selling of stocks on your behalf. They can provide advice and execute trades based on your instructions."]
+	  },
+	  {
+		"patterns": ["How can I mitigate risk in the stock market"],
+		"responses": ["You can reduce risk by diversifying your portfolio, investing for the long term, and doing thorough research. Additionally, consider using strategies like dollar-cost averaging and stop-loss orders."]
+	  },
+	  {
+		"patterns": ["What is stock market psychology"],
+		"responses": ["Stock market psychology refers to the emotional and behavioral factors that influence the decisions of investors and traders in the stock market. It includes aspects like fear, greed, overconfidence, and herd mentality."]
+	},
+	   
+		{
+		"patterns": ["How does the stock market work"],
+			"responses": ["The stock market works by matching buyers and sellers of stocks through exchanges. Stock prices are influenced by supply and demand."]
+		  },
+		 
+		  {
+			"patterns": ["How can I invest in stocks"],
+			"responses": ["You can invest in stocks through a brokerage account, where you buy and sell stocks on stock exchanges."]
+		  },
+		  {
+			"patterns": ["What is the difference between stocks and bonds"],
+			"responses": ["Stocks represent ownership in a company, while bonds are debt securities where you lend money to a company or government in exchange for periodic interest payments."]
+		  },
+		  {
+			"patterns": ["What are stock exchanges"],
+			"responses": ["Stock exchanges are marketplaces where stocks are bought and sold, such as the New York Stock Exchange (NYSE) and NASDAQ."]
+		  },
+		  {
+			"patterns": ["How do I buy and sell stocks"],
+			"responses": ["You can buy and sell stocks through a brokerage account by placing orders with specific instructions."]
+		  },
+		  {
+			"patterns": ["What is a stockbroker"],
+			"responses": ["A stockbroker is a licensed professional who can facilitate stock trades on your behalf."]
+		  },
+		  {
+			"patterns": ["How do I choose a stockbroker"],
+			"responses": ["Choose a stockbroker based on factors like fees, services, reputation, and the platform's ease of use."]
+		  },
+		  {
+			"patterns": ["What is a stock portfolio"],
+			"responses": ["A stock portfolio is a collection of different stocks owned by an individual or institution."]
+		  },
+		  {
+			"patterns": ["What is stock market volatility"],
+			"responses": ["Stock market volatility refers to the degree of variation in stock prices. High volatility implies larger price swings."]
+		  },
+		  {
+			"patterns": ["What are stock market indices"],
+			"responses": ["Stock market indices are benchmarks that track the performance of a specific group of stocks or the overall market, like the S&P 500."]
+		  },
+		  {
+			"patterns": ["How are stock prices determined"],
+			"responses": ["Stock prices are determined by the interaction of buyers and sellers. Supply and demand impact prices."]
+		  },
+		  {
+			"patterns": ["What is a stock split"],
+			"responses": ["A stock split is when a company divides its existing shares into multiple shares, often to make them more affordable."]
+		  },
+		  {
+			"patterns": ["What is a dividend"],
+			"responses": ["A dividend is a payment made by a corporation to its shareholders, typically out of its profits."]
+		  },
+		  {
+			"patterns": ["How are dividends paid"],
+			"responses": ["Dividends are usually paid in cash or additional shares of stock to shareholders."]
+		  },
+		  {
+			"patterns": ["What is a bull market"],
+			"responses": ["A bull market is a period of rising stock prices and optimism about the market's future."]
+		  },
+		  {
+			"patterns": ["What is a bear market"],
+			"responses": ["A bear market is a period of declining stock prices and pessimism about the market's future."]
+		  },
+		  {
+			"patterns": ["What is market capitalization"],
+			"responses": ["Market capitalization is the total value of a company's outstanding shares and is calculated by multiplying the stock price by the number of shares."]
+		  },
+		  {
+			"patterns": ["What is a blue-chip stock"],
+			"responses": ["Blue-chip stocks are shares in large, well-established, and financially stable companies known for their reliability."]
+		  },
+		  {
+			"patterns": ["What is a penny stock"],
+			"responses": ["A penny stock is a low-priced stock typically trading for less than $5 per share and often considered high-risk."]
+		  },
+		  {
+			"patterns": ["What is insider trading"],
+			"responses": ["Insider trading involves the buying or selling of a company's stock by individuals with non-public, material information about the company."]
+		  },
+		  {
+			"patterns": ["How do I read a stock quote"],
+			"responses": ["A stock quote provides information about a stock's current price, trading volume, bid and ask prices, and more."]
+		  },
+		  {
+			"patterns": ["What is a 52-week high and low"],
+			"responses": ["The 52-week high and low represent the highest and lowest prices a stock has traded at over the past year."]
+		  },
+		  {
+			"patterns": ["What is a stock market order"],
+			"responses": ["A stock market order is an instruction to buy or sell a stock, specifying the price at which you are willing to trade."]
+		  },
+		  {
+			"patterns": ["What are market orders and limit orders"],
+			"responses": ["Market orders are orders to buy or sell a stock at the current market price, while limit orders set a specific price at which you want to buy or sell."]
+		  },
+		  {
+			"patterns": ["How does after-hours trading work"],
+			"responses": ["After-hours trading allows trading of stocks outside regular market hours, typically from 4:00 PM to 8:00 PM Eastern Time."]
+		  },
+		  {
+			"patterns": ["What is a stock market crash"],
+			"responses": ["A stock market crash is a sudden and severe decline in stock prices, often resulting in a significant loss of market value."]
+		  },
+		  {
+			"patterns": ["How are stock market crashes caused"],
+			"responses": ["Stock market crashes can be triggered by various factors, including economic downturns, investor panic, and external events."]
+		  },
+		  {
+			"patterns": ["What is the role of the Securities and Exchange Commission (SEC)"],
+			"responses": ["The SEC is a regulatory agency responsible for overseeing and enforcing securities laws to protect investors and maintain market integrity."]
+		  },
+		  {
+			"patterns": ["What is a stock market bubble"],
+			"responses": ["A stock market bubble occurs when stock prices rise significantly above their intrinsic value, driven by speculation and excessive optimism."]
+		  },
+		  {
+			"patterns": ["What are stock options"],
+			"responses": ["Stock options are financial contracts that grant the holder the right, but not the obligation, to buy or sell a stock at a specific price."]
+		  },
+		  {
+			"patterns": ["What is a mutual fund"],
+			"responses": ["A mutual fund is an investment vehicle that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other assets."]
+		  },
+		  {
+			"patterns": ["How do I choose a mutual fund"],
+			"responses": ["Choose a mutual fund based on factors like your investment goals, risk tolerance, fees, and the fund's past performance."]
+		  },
+		  {
+			"patterns": ["Who is Abhishek Brainch"],
+			"responses": ["Frontend Devloper" ]
+		}
+								  
+]

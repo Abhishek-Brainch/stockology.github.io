@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.chat-interface {
+  background-image: url('https://cdn-ankjd.nitrocdn.com/OjLCEthUUXPAtvGuKItSofVslLLbuvft/assets/images/optimized/rev-8d95660/www.getfoundquick.com/wp-content/uploads/2023/01/shutterstock_1633125442-scaled.jpg');
+  /* margin:0 auto; */
+  /* border: 1px solid #ccc; */
+  /* height: 100vh; */
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 0px;
+  background-color: #f7f7f7;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.chat-history {
+  /* max-height: calc(100vh - 145px); */
+  display: flex;
+  background-attachment:fixed;
+  
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.user-message {
+  background-color: #85cf16;
+  padding: 8px;
+  margin: 8px 0;
+  margin-right: 30px;
+  max-width: 60%;
+  border-radius: 4px;
+}
+
+.system-message {
+  background-color: #f0f0f0;
+  padding: 8px;
+  margin: 8px 0;
+  margin-left: 30px;
+  max-width: 60%;
+  border-radius: 4px;
+}
+
+.input-container {
+  display: flex;
+ bottom: 0;
+ position:fixed;
+ /* position: relative; */
+ background-attachment: fixed;
+ width: 100%;
+ align-items: center;
+ overflow: hidden;
+  padding: 8px;
+  background-color: rgb(144, 204, 193);
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  resize: none;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #0b0c0c;
+  color: white;
+  border: none;
+  height: 45px;
+  width: 70px;
+  margin-left: 10px;
+  resize: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+  
+  .message {
+    padding: 8px;
+    margin: 4px;
+    border-radius: 8px;
+    max-width: 60%;
+  }
+  
+  .user-message {
+    padding-bottom: 0px;
+    align-self: flex-end;
+    background-color: rgb(146, 235, 208);
+  }
+  
+  .system-message {
+    align-self: flex-start;
+    background-color: #99def0;
+    padding-left:10px;
+    padding-top: 10px;padding-bottom: 0px;
+    margin-bottom: 60px;
+  }
+  @media (min-height:800px) {
+    
+    .chat-interface{
+      height: 100vh;
+    }
+  }
